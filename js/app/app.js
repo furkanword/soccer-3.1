@@ -3,7 +3,7 @@ import "../components/frmEquipo.js";
 import "../components/frmJugadores.js";
 import "../components/frmCuerpoTecnico.js";
 import "../components/frmCuerpoMedico.js";
-import { Jugador } from "./Jugador.js";
+//import { Jugador } from "./Jugador.js";
 // import { Departamentos } from "./bd/departamentos.js";
 // import { Equipo } from "./Equipo.js";
 import { CuerpoTecnico } from "./CuerpoTecnico.js";
